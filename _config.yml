@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Nikhil Ram Mohan"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "Combinate_headshot.JPG"
+  bio              : "Computational Biology | Machine Learning | Microbiome | Phylogenetgics"
+  location         : "Stanford CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=nikhil+ram+mohan&sort=date"
+  googlescholar    : "https://scholar.google.com/citations?user=oUCOdcYAAAAJ&hl=en&oi=ao#"
+  email            : "nikhilrm@stanford.edu"
+  researchgate     : "https://www.researchgate.net/profile/Nikhil-Ram-Mohan" 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "nikhilram"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7761-2772"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "microevol"
   vine             :
   weibo            :
   xing             :
