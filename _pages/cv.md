@@ -21,19 +21,21 @@ Work experience
   * Duties included: Designing predictive models for antibiotic susceptibility testing from single cell images of bacteria and cycle thresholds from qPCR; MALDI-TOF on plamsa from healthy volunteers 
   * Supervisor: Dr. Samuel Yang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Jun 2019 - Nov 2021: Postdoctoral Scholar
+  * Stanford University School of Medicine
+  * Duties included: Lead SARS-CoV-2 RNA studies using patient samples stored at the biobank using digital PCR; ATAC-seq, RNA-seq, and Hi-C on neutrophils; RNA-seq on bacterial strains treated with antibiotics
+  * Supervisor: Dr. Samuel Yang
+
+* Aug 2016 - Jun 2019: Postdoctoral Research Fellow
+  * Boston College
+  * Duties included: Elucidating the transcriptional landscape and operon architecture of *Streptococcus pneumoniae* using Term-seq and RNAtag-seq; discovery and evolution of non-coding RNAs in genomes of species of bacteria and populations in the oral microbiome 
+  * Supervisor: Dr. Michelle Neyer
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R, perl, and python
+* Genomics, metagenomics, transcriptomics, and epigenomics
+* Machine learning
 
 Publications
 ======
