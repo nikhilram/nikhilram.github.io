@@ -18,7 +18,7 @@ Work experience
 ======
 * Nov 2021 - Current: Basic Life Research Scientist
   * Stanford University School of Medicine
-  * Duties included: 
+  * Duties included: Designing predictive models for antibiotic susceptibility testing from single cell images of bacteria and cycle thresholds from qPCR; MALDI-TOF on plamsa from healthy volunteers 
   * Supervisor: Dr. Samuel Yang
 
 * Fall 2015: Research Assistant
