@@ -1,6 +1,8 @@
 ---
 collection: publications
+title: 'Google Scholar'
 permalink: /publication/paper-number-1
+paperurl: 'https://scholar.google.com/citations?user=oUCOdcYAAAAJ&hl=en&oi=ao#'
 ---
 
 1.	Tjandra, K.C.*, Ram-Mohan, N.*, Roshardt, M.*, Qu, Z., Zudock, E.J., Mach, K.E., Eminaga, O., Liao, J.C., Yang, S., Wong, P.K. MorphoAST – A Machine Learning Workflow for Sub-Doubling Time Single Cell Antimicrobial Susceptibility Testing.
