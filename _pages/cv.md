@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Genetics and Genomics, University of Connecticut, Storrs CT 2016
+* B.Tech Industrial Biotechnology, Dr. M.G.R. Educational and Research Institute, Chennai India, 2007
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Nov 2021 - Current: Basic Life Research Scientist
+  * Stanford University School of Medicine
+  * Duties included: 
+  * Supervisor: Dr. Samuel Yang
 
 * Fall 2015: Research Assistant
   * Github University
