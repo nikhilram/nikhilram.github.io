@@ -34,7 +34,7 @@ Work experience
 Skills
 ======
 * R, perl, and python
-* Genomics, metagenomics, transcriptomics, and epigenomics
+* Genomics, metagenomics, transcriptomics, epigenomics, and metabolomics
 * Machine learning
 
 Publications
