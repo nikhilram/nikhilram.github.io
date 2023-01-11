@@ -1,5 +1,5 @@
 ---
-title: "1.	Etiology of periodontitis progression: A meta survey of the genes and putative RNA regulatory mechanisms driving disease"
+title: "Etiology of periodontitis progression: A meta survey of the genes and putative RNA regulatory mechanisms driving disease"
 collection: talks
 type: "Talk"
 permalink: /talks/talk-1
