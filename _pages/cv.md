@@ -29,7 +29,7 @@ Work experience
 * Aug 2016 - Jun 2019: Postdoctoral Research Fellow
   * Boston College
   * Duties included: Elucidating the transcriptional landscape and operon architecture of *Streptococcus pneumoniae* using Term-seq and RNAtag-seq; discovery and evolution of non-coding RNAs in genomes of species of bacteria and populations in the oral microbiome 
-  * Supervisor: Dr. Michelle Neyer
+  * Supervisor: Dr. Michelle Meyer
 
 Skills
 ======
