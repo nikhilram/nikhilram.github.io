@@ -1,3 +1,8 @@
+---
+collection: publications
+permalink: /publication/paper-number-1
+---
+
 1.	Tjandra, K.C.*, Ram-Mohan, N.*, Roshardt, M.*, Qu, Z., Zudock, E.J., Mach, K.E., Eminaga, O., Liao, J.C., Yang, S., Wong, P.K. MorphoAST – A Machine Learning Workflow for Sub-Doubling Time Single Cell Antimicrobial Susceptibility Testing.
 bioRxiv [Preprint] 2022.11.03.515093; doi: https://doi.org/10.1101/2022.11.03.515093 (Under Review) (* co first authors)
 2.	Haddock, N.L., Barkal, L.J., Ram-Mohan, N., Kaber, G., Chiu, C.Y., Bhatt, A.S., Yang, S., Bollyky, P. The circulating phageome reflects bacterial infections. bioRxiv [Preprint]. 2022.08.15.504009; doi: https://doi.org/10.1101/2022.08.15.504009 (Under Review)
