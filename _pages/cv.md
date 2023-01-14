@@ -36,6 +36,7 @@ Skills
 * R, perl, and python
 * Genomics, metagenomics, transcriptomics, epigenomics, and metabolomics
 * Machine learning
+* Detection and discovery of structured non-coding RNA
 
 Publications
 ======
