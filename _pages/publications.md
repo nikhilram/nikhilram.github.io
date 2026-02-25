@@ -52,6 +52,6 @@ Co-developed mechanistic insights into DNAzyme activity within neutrophil extrac
 ---
 
 ### The Transcriptional landscape of Streptococcus pneumoniae TIGR4 reveals complex operon architecture and riboregulation  
-*PLOS Pathogens*
+*PLoS Pathogens*
 
 Directed comprehensive transcriptomic mapping in a clinically relevant bacterial pathogen, defining regulatory networks critical for virulence and growth.
