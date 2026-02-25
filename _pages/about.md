@@ -3,6 +3,7 @@ layout: home
 author_profile: true
 permalink: /
 title: "Nikhil Ram Mohan, PhD"
+<hr style="margin: 2em 0;">
 ---
 
 # Scientific Strategy & Publications Leader  
