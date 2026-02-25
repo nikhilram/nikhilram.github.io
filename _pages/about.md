@@ -1,14 +1,50 @@
 ---
-permalink: /
-title: "Nikhil Ram Mohan's Homepage"
-excerpt: "About me"
+layout: single
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /
+title: "Nikhil Ram Mohan, PhD"
 ---
-# Welcome!
 
-I am a computational biologist working in [Dr. Samuel Yang's](https://profiles.stanford.edu/60982) lab in the Emergency Medicine Department at Stanford University. We work on developing technologies for rapid identification and antibiotic susceptibility testing of bacteria. My research focuses on developing predictive models for susceptibility and minimum inhibitory concentration to antibiotics based on morphological changes in imaging data. In parallel, I am also developing classification models to detect susceptibility based on nucleic acid levels in populations using cycle threshold levels from qPCR.
+# Scientific Strategy & Publications Leader  
+Translational Genomics | Infectious Disease | Immunology | Cross-Functional R&D Leadership  
 
-I received my PhD from the [University of Connecticut](https://uconn.edu/) under the supervision of [Dr. R Thane Papke](https://papke.lab.uconn.edu/) working on the mechanisms driving speciation in halophilic archaea. I surveyed the role of biogeographic distribution, temporal stability, and extensive homologous recombination in populations of halophilic archaea that drive the genesis of new species within the archael domain. My first postdoctoral training was with [Dr. Michelle Meyer](https://meyerlabrna.org/) in [Boston College](https://www.bc.edu/bc-web/schools/mcas/departments/biology.html) studying non-coding RNAs in bacteria including discovery or novel ones, definition of transcriptional boundaries, and their roles in periodontitis in the oral microbiome and the pathogenecity of *Streptococcus pneumoniae*. For my second postdoctoral training, I moved to Stanford to work with Dr. Yang where I used ATAC-seq, Hi-C, and RNA-seq to determine insult specific epigenetic regulation in neutrophils. Subsequently, I lead multiple collaborative COVID-19 studies during the pandemic.  
+I am a scientific strategy leader with 18+ years of experience driving translational biomedical research from discovery through high-impact publication, funding acquisition, and cross-functional alignment. My work bridges computational biology, infectious disease, immunology, and clinical research to shape scientific narratives that support portfolio advancement and organizational objectives.
+
+I have led end-to-end publication strategy across multi-omics programs, secured $7M+ in competitive NIH funding, and authored 20+ peer-reviewed manuscripts including publications in *Science*, *Lancet Infectious Diseases*, *Nature Microbiology*, and *Clinical Infectious Diseases*. I specialize in translating complex biological datasets into clear, decision-enabling narratives for scientific, clinical, and executive stakeholders.
+
+---
+
+## Strategic Impact
+
+- Directed publication planning and manuscript development across interdisciplinary teams  
+- Led cross-functional alignment between computational, experimental, clinical, and industrial collaborators  
+- Secured $7M+ in competitive research funding through strategic narrative development  
+- Integrated multi-omics analyses to define translationally relevant biological insights  
+- Presented research findings at international conferences and public scientific forums  
+
+---
+
+## Core Leadership Capabilities
+
+**Scientific Communications & Publications Strategy**  
+Global publication planning • Manuscript governance • Author coordination • Data-to-narrative translation • GPP & ICMJE alignment  
+
+**Translational & Scientific Strategy**  
+Multi-omics integration • Infectious disease & inflammation biology • Clinical positioning of molecular findings  
+
+**Cross-Functional Scientific Leadership**  
+R&D alignment • Computational-experimental integration • Executive-ready scientific synthesis • Funding & regulatory documentation support  
+
+---
+
+## Selected Metrics
+
+18+ Years Scientific Experience  
+20+ Peer-Reviewed Publications  
+$7M+ Competitive Funding Secured  
+Multi-Omics & Translational Research Leadership  
+International Scientific Speaker  
+
+---
+
+[Download Director-Level Industry Resume](/files/Nikhil_Ram_Mohan_Director_Resume.pdf)
