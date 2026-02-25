@@ -49,4 +49,6 @@ International Scientific Speaker
 
 ---
 
-[Download Director-Level Industry Resume](/files/Nikhil_Ram_Mohan_Director_Resume.pdf)
+---
+
+[Download Resume](/files/Nikhil_Ram_Mohan_Director_Resume.pdf){: .btn .btn--primary }
