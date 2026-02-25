@@ -1,5 +1,8 @@
 ---
-title: "Bridging Computational Biology and Clinical Decision-Making"
+title: "Bridging Computation and Clinic"
+date: 2026-02-25
+layout: single
+author_profile: true
 ---
 
 Computational biology has matured from a supportive analytical function to a central driver of translational research. However, computational insight must be paired with biological interpretation and clinical framing to generate impact.
