@@ -21,7 +21,8 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments                 : false    
-theme                    : jekyll-theme-minimal
+#theme                    : jekyll-theme-minimal
+remote_theme             : mmistakes/minimal-mistakes
 # SEO Related
 google_site_verification :
 bing_site_verification   :
