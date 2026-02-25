@@ -23,6 +23,7 @@ talkmap_link             : false #change to true to add link to talkmap on talks
 comments                 : false    
 #theme                    : jekyll-theme-minimal
 remote_theme             : mmistakes/minimal-mistakes
+minimal_mistakes_skin    : "air"
 # SEO Related
 google_site_verification :
 bing_site_verification   :
