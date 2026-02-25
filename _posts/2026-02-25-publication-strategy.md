@@ -1,5 +1,8 @@
 ---
-title: "Publication Strategy as a Driver of Translational Impact"
+title: "Publication Strategy Drives Translational Impact"
+date: 2026-02-25
+layout: single
+author_profile: true
 ---
 
 Scientific publication is often viewed as an endpoint — the final output of a research program. In reality, publication strategy shapes how scientific findings are interpreted, adopted, and positioned within a broader biomedical landscape.
