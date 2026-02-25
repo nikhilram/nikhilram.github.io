@@ -1,8 +1,8 @@
 ---
 layout: single
-author_profile: true
 title: "Leadership & Strategy"
 permalink: /leadership/
+author_profile: true
 ---
 
 ## Publication Governance & Scientific Narrative Strategy
