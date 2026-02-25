@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+classes: wide
 permalink: /
 title: "Nikhil Ram Mohan, PhD"
 <hr style="margin: 2em 0;">
