@@ -1,5 +1,6 @@
 ---
 layout: single
+author_profile: true
 title: "Leadership & Strategy"
 permalink: /leadership/
 ---
