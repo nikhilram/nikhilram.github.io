@@ -12,7 +12,6 @@ title_separator          : "-"
 name                     : &name "Nikhil Ram Mohan, PhD"
 description              : &description "Scientific Strategy & Publications Leader | Translational Genomics & Infectious Disease"
 url                      : https://nikhilram.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-location                 : "San Francisco Bay Area"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nikhilram/nikhilram.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,13 +82,13 @@ analytics:
 author:
   name             : "Nikhil Ram Mohan"
   avatar           : "Combinate_headshot.JPG"
-  bio              : "Computational Biology | Machine Learning | Microbiome | Phylogenetics"
-  location         : "Stanford CA"
+  bio              : "Scientific Strategy & Publications Leader | Translational Genomics & Infectious Disease"
+  location         : "San Francisco Bay Area"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=nikhil+ram+mohan&sort=date"
   googlescholar    : "https://scholar.google.com/citations?user=oUCOdcYAAAAJ&hl=en&oi=ao#"
-  email            : "nikhilrm@stanford.edu"
-  researchgate     : "https://www.researchgate.net/profile/Nikhil-Ram-Mohan" 
+  email            : #"nikhilrm@stanford.edu"
+  researchgate     : #"https://www.researchgate.net/profile/Nikhil-Ram-Mohan" 
   uri              :
   bitbucket        :
   codepen          :
@@ -110,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "microevol"
+  twitter          : #"microevol"
   vine             :
   weibo            :
   xing             :
