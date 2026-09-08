@@ -1,9 +1,10 @@
 ---
 layout: single
 author_profile: true
+classes: wide
 permalink: /collaborate/
-title: "Collaborate"
---------------------
+title: Collaborate
+---
 
 # What's the next difficult problem?
 
