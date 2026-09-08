@@ -3,52 +3,127 @@ layout: single
 author_profile: true
 classes: wide
 permalink: /
-title: "Nikhil Ram Mohan, PhD"
-<hr style="margin: 2em 0;">
+title: Nikhil Ram Mohan, PhD
 ---
 
-# Scientific Strategy & Publications Leader  
-Translational Genomics | Infectious Disease | Immunology | Cross-Functional R&D Leadership  
+# Translational Scientist · Scientific Strategist · Scientific Communications Leader
 
-I am a scientific strategy leader with 18+ years of experience driving translational biomedical research from discovery through high-impact publication, funding acquisition, and cross-functional alignment. My work bridges computational biology, infectious disease, immunology, and clinical research to shape scientific narratives that support portfolio advancement and organizational objectives.
+Molecular Biology | Computational Biology | Clinical Research | Translational Science
 
-I have led end-to-end publication strategy across multi-omics programs, secured $7M+ in competitive NIH funding, and authored 20+ peer-reviewed manuscripts including publications in *Science*, *Lancet Infectious Diseases*, *Nature Microbiology*, and *Clinical Infectious Diseases*. I specialize in translating complex biological datasets into clear, decision-enabling narratives for scientific, clinical, and executive stakeholders.
+I work at the intersection of **molecular biology, computational biology, and clinical research**, developing experimental and analytical approaches to address difficult biological and translational questions.
 
----
-
-## Strategic Impact
-
-- Directed publication planning and manuscript development across interdisciplinary teams  
-- Led cross-functional alignment between computational, experimental, clinical, and industrial collaborators  
-- Secured $7M+ in competitive research funding through strategic narrative development  
-- Integrated multi-omics analyses to define translationally relevant biological insights  
-- Presented research findings at international conferences and public scientific forums  
+My work spans **immunology, infectious disease, genomics, biomarkers, molecular diagnostics, and quantitative biology**. Across these areas, I am particularly interested in problems where conventional approaches leave important biological questions unresolved—and where integrating experimental evidence with quantitative analysis can reveal new insight.
 
 ---
 
-## Core Leadership Capabilities
+## What I Do
 
-**Scientific Communications & Publications Strategy**  
-Global publication planning • Manuscript governance • Author coordination • Data-to-narrative translation • GPP & ICMJE alignment  
+### Translational Research
 
-**Translational & Scientific Strategy**  
-Multi-omics integration • Infectious disease & inflammation biology • Clinical positioning of molecular findings  
+I design and advance research programs that connect biological mechanisms to clinically meaningful questions, biomarkers, diagnostics, and patient biology.
 
-**Cross-Functional Scientific Leadership**  
-R&D alignment • Computational-experimental integration • Executive-ready scientific synthesis • Funding & regulatory documentation support  
+**Clinical Research · Biomarkers · Biobanks · Molecular Diagnostics · Host-Response Biology**
 
----
+### Quantitative & Computational Biology
 
-## Selected Metrics
+I develop computational and quantitative approaches to extract biological insight from complex molecular, clinical, and imaging datasets.
 
-18+ Years Scientific Experience  
-20+ Peer-Reviewed Publications  
-$7M+ Competitive Funding Secured  
-Multi-Omics & Translational Research Leadership  
-International Scientific Speaker  
+**Computational Biology · Quantitative Imaging · Multi-Omics · Spatial Analysis · Python · R**
 
----
+### Scientific Strategy & Communications
+
+I build scientific narratives that accurately represent the evidence while making complex research understandable, persuasive, and actionable.
+
+**Publication Strategy · Scientific Writing · Grant Development · Scientific Storytelling · Cross-Functional Leadership**
 
 ---
 
-[Download Resume](/files/Nikhil_Ram_Mohan_Director_Resume.pdf){: .btn .btn--primary }
+## Selected Areas of Work
+
+My current work spans distinct but complementary areas of translational biology.
+
+### Noncanonical DNA & NET Biology
+
+Investigating the structural and functional properties of DNA within neutrophil extracellular traps, including the potential roles of Z-DNA and other noncanonical DNA structures in immune and antimicrobial function.
+
+### Rapid Phenotypic Antimicrobial Susceptibility Testing
+
+Developing approaches to accelerate phenotypic antimicrobial susceptibility testing for *Neisseria gonorrhoeae*, with the goal of enabling faster, clinically actionable characterization of antibiotic susceptibility.
+
+### Translational & Clinical Biology
+
+Applying molecular, computational, and clinical approaches to understand disease biology, identify biomarkers, and translate biological signals into clinically meaningful measurements.
+
+**[Explore my research →](/research/)**
+
+---
+
+## How I Think About Scientific Problems
+
+Different biological questions require different tools, but my approach is consistent:
+
+**Define the question → separate observation from interpretation → identify competing mechanisms → develop discriminating experiments → quantify the biology → translate the findings.**
+
+I am particularly drawn to problems that sit between disciplines, where solving the question requires connecting experimental biology with computation, clinical context, and scientific communication.
+
+---
+
+## Selected Impact
+
+**18+ years**  
+Translational biomedical research
+
+**20+ publications**  
+Peer-reviewed scientific literature
+
+**$7M+**  
+Competitive research funding
+
+**Cross-disciplinary**  
+Experimental · computational · clinical
+
+---
+
+## Selected Projects
+
+### Extracellular DNA & NET Biology
+
+Structural and quantitative investigation of DNA organization and function in neutrophil extracellular traps.
+
+### Rapid Phenotypic AST
+
+Development and evaluation of approaches for accelerating phenotypic antimicrobial susceptibility testing.
+
+### Quantitative Biological Imaging
+
+Computational analysis of microscopy data to quantify biological structure, spatial relationships, and phenotypic changes.
+
+### Translational Biomarker Research
+
+Connecting molecular signatures, clinical phenotypes, and patient-derived biological data.
+
+**[View selected projects →](/projects/)**
+
+---
+
+## Scientific Publications
+
+My publication record spans molecular biology, infectious disease, immunology, computational biology, diagnostics, and translational medicine.
+
+I approach scientific publication as an exercise in **evidence architecture**: identifying the central biological question, determining what the data genuinely support, anticipating alternative interpretations, and constructing a coherent scientific narrative.
+
+**[Explore my publications →](/publications/)**
+
+---
+
+## Let's Connect
+
+I am interested in **scientific collaborations, research partnerships, advisory opportunities, and conversations around difficult biological problems**.
+
+If you're working on an interesting question at the intersection of biology, computation, clinical research, or scientific communication, I'd be glad to hear about it.
+
+**[Get in touch →](/contact/)**
+
+---
+
+[Download Resume](https://github.com/nikhilram/nikhilram.github.io/blob/master/files/Nikhil_Ram_Mohan_Director_Resume.pdf){: .btn .btn--primary }
