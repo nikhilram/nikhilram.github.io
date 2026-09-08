@@ -13,3 +13,5 @@ I like difficult problems.
 The unfamiliar. The messy. The elusive. The inexplicable. The questions that don't fit neatly into a discipline, a job description, or an established playbook.
 
 If you're working on one, **let's talk.**
+
+[Get in touch](mailto:nikhil.rammohan85@gmail.com){: .btn .btn--primary}
