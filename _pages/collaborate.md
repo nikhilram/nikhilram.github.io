@@ -14,4 +14,4 @@ The unfamiliar. The messy. The elusive. The inexplicable. The questions that don
 
 If you're working on one, **let's talk.**
 
-[Get in touch](mailto:nikhil.rammohan85@gmail.com){: .btn .btn--primary}
+<a href="mailto:nikhil.rammohan85@gmail.com" class="btn btn--primary">Get in touch</a>
