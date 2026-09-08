@@ -182,7 +182,7 @@ Across these transitions, the underlying question has remained remarkably consis
 **700+ citations**  
 **Multiple first- and co-first-author contributions**  
 **Publications spanning basic, computational, translational, and clinical research**  
-**Research published in *Science, Nature Microbiology, The Lancet Infectious Diseases, Clinical Infectious Diseases, PLOS Pathogens, Nucleic Acids Research, and other peer-reviewed journals**
+**Research published in *Science, Nature Microbiology, The Lancet Infectious Diseases, Clinical Infectious Diseases, PLOS Pathogens, Nucleic Acids Research*, and other peer-reviewed journals**
 
 ---
 
