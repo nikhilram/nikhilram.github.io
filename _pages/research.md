@@ -18,7 +18,7 @@ My work spans distinct biological problems, but the underlying approach is consi
 
 ### 01 — Noncanonical DNA & Extracellular Biology
 
-#### Can the physical structure of extracellular DNA influence biological function?
+** Can the physical structure of extracellular DNA influence biological function? **
 
 My current work investigates whether the **physical organization and molecular conformation of extracellular DNA** contribute to the biology of neutrophil extracellular traps (NETs), with particular interest in Z-DNA and other noncanonical DNA structures.
 
@@ -32,7 +32,7 @@ This work brings together **experimental biology, quantitative imaging, computat
 
 ### 02 — Antimicrobial Resistance & Rapid Phenotypic Diagnostics
 
-#### Can phenotypic antimicrobial susceptibility testing become practical for routine gonorrhea care?
+** Can phenotypic antimicrobial susceptibility testing become practical for routine gonorrhea care? **
 
 Unlike many bacterial infections, **phenotypic antimicrobial susceptibility testing is not routinely performed for uncomplicated gonorrhea in clinical practice**. Treatment therefore frequently relies on empiric use of ceftriaxone rather than susceptibility-guided therapy.
 
@@ -48,7 +48,7 @@ This work sits at the intersection of:
 
 ### 03 — Translational & Clinical Biology
 
-#### How can molecular measurements become clinically meaningful information?
+** How can molecular measurements become clinically meaningful information? **
 
 A substantial part of my work has focused on connecting molecular biology with human disease and clinically relevant phenotypes.
 
