@@ -27,7 +27,7 @@ This work has progressed from molecular signatures of antimicrobial response to 
 *Lab on a Chip*, 2025
 
 **Growth Independent Morphometric Machine Learning Workflow for Single-Cell Antimicrobial Susceptibility Testing of Klebsiella pneumoniae to Meropenem**  
-*KC Tjandra, N Ram Mohan, M Roshardt, EJ Zudock, Z Qu, K Mach, et al.*  
+*KC Tjandra, N Ram-Mohan, M Roshardt, EJ Zudock, Z Qu, K Mach, et al.*  
 *Frontiers in Imaging*, 2024
 
 **Rapid Molecular Phenotypic Antimicrobial Susceptibility Test for Neisseria gonorrhoeae Based on Propidium Monoazide Viability PCR**  
