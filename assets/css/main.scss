@@ -40,5 +40,15 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Nikhil Ram Mohan — custom visual system */
-@import "custom";
+.page__content {
+  font-size: 1.15rem;
+  line-height: 1.8;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+.page__title {
+  font-size: 2rem;
+}
