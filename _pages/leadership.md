@@ -5,8 +5,6 @@ permalink: /leadership/
 title: "Scientific Leadership"
 ---
 
-# Scientific Leadership
-
 ## Connecting science, data, clinical insight, and strategy
 
 My work sits at the intersection of **scientific discovery, translational research, data-driven analysis, clinical medicine, and scientific communication**. Across multidisciplinary programs, I have worked with academic researchers, clinicians, computational scientists, experimental teams, and industry collaborators to move complex scientific questions from hypothesis through evidence, interpretation, publication, and translation.
