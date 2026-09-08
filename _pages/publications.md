@@ -94,8 +94,6 @@ My recent work has increasingly focused on the biology of extracellular nucleic 
 *TD Demir, N Ram-Mohan, S Yang*  
 *bioRxiv*, 2026
 
-**Co-first author**
-
 This primary research study investigates the presence, organization, and persistence of Z-DNA within neutrophil extracellular traps and develops a quantitative framework for examining its structural relationship with extracellular DNA architecture.
 
 ### Related research
