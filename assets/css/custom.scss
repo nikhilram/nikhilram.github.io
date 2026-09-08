@@ -1,52 +1,121 @@
 ---
-
 ---
 
-/* Nikhil Ram Mohan — Custom Visual System */
+/* =========================================================
+   Nikhil Ram Mohan — Custom Visual System
+   ========================================================= */
+
+
+/* ---------------------------------------------------------
+   Main Content
+   --------------------------------------------------------- */
 
 .page__content {
-
-/* Comfortable reading width */
-max-width: 820px;
-
-/* Improve paragraph rhythm */
-p {
-margin-bottom: 1.15em;
-line-height: 1.65;
+  max-width: 820px;
+  text-align: left;
 }
 
-/* Clear separation between sections */
-h2 {
-margin-top: 2.4em;
-margin-bottom: 0.8em;
-}
 
-h3 {
-margin-top: 1.8em;
-margin-bottom: 0.6em;
-}
+/* ---------------------------------------------------------
+   Typography
+   --------------------------------------------------------- */
 
-/* Keep headings and body copy left aligned */
-text-align: left;
-}
-
-/* Don't justify prose */
 .page__content p,
 .page__content li {
-text-align: left;
+  line-height: 1.65;
+  text-align: left;
 }
 
-/* Slightly more breathing room around the main page */
-.page {
-padding-top: 1.5em;
+.page__content p {
+  margin-bottom: 1.0em;
 }
 
-/* Keep horizontal rules subtle */
+
+/* Headings */
+
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4 {
+  font-weight: 600;
+  text-align: left;
+}
+
+.page__content h1 {
+  margin-bottom: 0.8em;
+}
+
+.page__content h2 {
+  margin-top: 2.2em;
+  margin-bottom: 0.65em;
+}
+
+.page__content h3 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+
+/* ---------------------------------------------------------
+   Section Separation
+   --------------------------------------------------------- */
+
+/* Horizontal rules should create stronger separation
+   between major sections without becoming visually heavy. */
+
 .page__content hr {
-margin: 2.5em 0;
+  margin: 2.25em 0;
 }
 
-/* Buttons */
+
+/* ---------------------------------------------------------
+   Lists
+   --------------------------------------------------------- */
+
+.page__content ul,
+.page__content ol {
+  margin-bottom: 1.1em;
+}
+
+.page__content li {
+  margin-bottom: 0.35em;
+}
+
+
+/* ---------------------------------------------------------
+   Buttons
+   --------------------------------------------------------- */
+
 .page__content .btn {
-margin-top: 0.75em;
+  margin-top: 0.6em;
+}
+
+
+/* ---------------------------------------------------------
+   Tables
+   --------------------------------------------------------- */
+
+.page__content table {
+  margin-bottom: 1.5em;
+}
+
+
+/* ---------------------------------------------------------
+   Mobile
+   --------------------------------------------------------- */
+
+@media (max-width: 600px) {
+
+  .page__content {
+    max-width: 100%;
+  }
+
+  .page__content h2 {
+    margin-top: 1.8em;
+  }
+
+  .page__content h3 {
+    margin-top: 1.3em;
+  }
+
 }
