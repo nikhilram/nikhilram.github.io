@@ -1,0 +1,52 @@
+---
+
+---
+
+/* Nikhil Ram Mohan — Custom Visual System */
+
+.page__content {
+
+/* Comfortable reading width */
+max-width: 820px;
+
+/* Improve paragraph rhythm */
+p {
+margin-bottom: 1.15em;
+line-height: 1.65;
+}
+
+/* Clear separation between sections */
+h2 {
+margin-top: 2.4em;
+margin-bottom: 0.8em;
+}
+
+h3 {
+margin-top: 1.8em;
+margin-bottom: 0.6em;
+}
+
+/* Keep headings and body copy left aligned */
+text-align: left;
+}
+
+/* Don't justify prose */
+.page__content p,
+.page__content li {
+text-align: left;
+}
+
+/* Slightly more breathing room around the main page */
+.page {
+padding-top: 1.5em;
+}
+
+/* Keep horizontal rules subtle */
+.page__content hr {
+margin: 2.5em 0;
+}
+
+/* Buttons */
+.page__content .btn {
+margin-top: 0.75em;
+}
