@@ -1,10 +1,9 @@
 ---
-
 layout: single
 author_profile: true
 permalink: /leadership/
 title: "Scientific Leadership"
-------------------------------
+---
 
 # Scientific Leadership
 
