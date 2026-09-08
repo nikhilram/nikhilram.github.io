@@ -6,8 +6,6 @@ permalink: /research/
 title: Research
 ---
 
-# Research
-
 ## Translational science across disciplines
 
 My work spans **molecular biology, immunology, infectious disease, computational biology, and clinical translation**. I have deliberately worked across disciplinary boundaries, using different experimental and analytical approaches to address biological questions that are difficult to resolve within a single field.
